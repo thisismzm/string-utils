@@ -1,0 +1,24 @@
+{
+    "name": "mzm/string-utils",
+    "description": "A collection of useful php functions for strings",
+    "license": "MIT",
+    "keywords": ["utility", "utils", "util", "string"],
+    "authors": [
+        {
+            "name": "Mohammad Zare Moghadam",
+            "email": "mzmoghadam72@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mzm\\Utils\\": "src/"
+        }
+    },
+    "type": "library",
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    }
+}
