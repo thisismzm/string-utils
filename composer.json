@@ -1,5 +1,5 @@
 {
-    "name": "mzm/string-utils",
+    "name": "thisismzm/string-utils",
     "description": "A collection of useful php functions for strings",
     "license": "MIT",
     "keywords": ["utility", "utils", "util", "string"],
